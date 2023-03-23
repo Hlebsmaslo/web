@@ -1,0 +1,127 @@
+.img {
+    width: 1557px;
+    height: 2001px;
+    box-sizing: border-box;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+.img4 {
+    top: 0px;
+    left: 0px;
+    width: 1557px;
+    height: 479px;
+    position: absolute;
+}
+
+.img3 {
+    top: 1900px;
+    left: 0px;
+    width: 1557px;
+    height: 101px;
+    position: absolute;
+}
+
+.img2 {
+    top: 479px;
+    left: 523px;
+    width: 1034px;
+    height: 1421px;
+    position: absolute;
+}
+
+.img1 {
+    top: 479px;
+    left: 0px;
+    width: 523px;
+    height: 1421px;
+    position: absolute;
+}
+
+.tw {
+    top: 245px;
+    left: 539px;
+    color: rgb(255, 255, 255);
+    width: 859px;
+    position: absolute;
+    font-size: 64px;
+    text-align: left;
+    font-weight: 300;
+}
+
+.tt {
+    top: 509px;
+    left: 16px;
+    color: rgba(255, 255, 255, 1);
+    width: 467px;
+    opacity: 1;
+    position: absolute;
+    font-size: 44px;
+    text-align: right;
+    font-weight: 400;
+}
+
+.ttt {
+    top: 551px;
+    left: 540px;
+    color: var(--dl-color-default-gray1);
+    width: 324px;
+    position: absolute;
+    font-size: 33px;
+    text-align: right;
+    font-weight: 700;
+}
+
+.tttt {
+    top: 551px;
+    left: 945px;
+    color: rgba(21, 118, 152, 1);
+    width: 597px;
+    height: auto;
+    position: absolute;
+    font-size: 35px;
+    text-align: left;
+    font-weight: 700;
+    line-height: 100%;
+}
+
+.text {
+    top: 694px;
+    left: 945px;
+    width: 597px;
+    opacity: 1;
+    position: absolute;
+    font-size: 33px;
+    text-align: left;
+    font-weight: 400;
+    line-height: 50px;
+}
+
+.text2 {
+    top: 1028px;
+    left: 540px;
+    width: 324px;
+    position: absolute;
+    font-size: 33px;
+    text-align: right;
+    font-weight: 700;
+}
+
+.text3 {
+    top: 1035px;
+    left: 945px;
+    color: rgba(21, 118, 152, 1);
+    width: 597px;
+    position: absolute;
+    font-size: 35px;
+    text-align: left;
+    font-weight: 700;
+}
+
+.imgg {
+    top: 79px;
+    left: 123px;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    border-color: transparent;
+}
